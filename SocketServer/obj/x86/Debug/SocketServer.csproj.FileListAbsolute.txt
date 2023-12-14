@@ -1,0 +1,17 @@
+D:\KTK_Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\KTK_Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.Form1.resources
+D:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.Properties.Resources.resources
+D:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+D:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+D:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.csprojResolveAssemblyReference.cache
+G:\KTK_Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+G:\KTK_Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+G:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.csprojAssemblyReference.cache
+G:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.Form1.resources
+G:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.Properties.Resources.resources
+G:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.csproj.GenerateResource.cache
+G:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.csproj.CoreCompileInputs.cache
+G:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+G:\KTK_Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
